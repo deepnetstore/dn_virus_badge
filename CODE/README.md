@@ -1,7 +1,7 @@
 # How to upload code to the DN_Virus Badge
 #### This project uses PlatformIO
 
-Please follow the guides here [https://docs.platformio.org/en/latest/core/installation/index.html] to set up PlatformIO.  
+Follow this guide to set up PlatformIO: [https://docs.platformio.org/en/latest/core/installation/index.html]  
 We recommend using the VSCode installation method.  
 
 Once PlatformIO is installed, both the code and the file system will need to be built and flashed.  
