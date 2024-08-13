@@ -1,0 +1,5 @@
+{
+    "game_stats_health": 0,
+    "game_stats_score": 0,
+    "game_is_setup": false,
+}
